@@ -63,7 +63,7 @@ sudo systemctl enable kubelet.service
 sudo su - ubuntu
 ```
 
-## Initialised the control plane.
+## Initialize the control plane.
 ``` sh
 # Initialize Kubernates master by executing below commond.
 sudo kubeadm init
